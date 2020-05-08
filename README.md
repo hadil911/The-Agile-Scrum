@@ -11,27 +11,15 @@ Scrum is a framework that helps teams work together. Much like a rugby team (whe
 While the Scrum I’m talking about is most frequently used by software development teams, its principles and lessons can be applied to all kinds of teamwork. This is one of the reasons Scrum is so popular. Often thought of as an agile project management framework, Scrum describes a set of meetings, tools, and roles that work in concert to help teams structure and manage their work.
 
 
-# Header 1
-## Header 2
-### Header 3
+# What are sprints?
 
-- Bulleted
-- List
+A sprint is a short, time-boxed period when a scrum team works to complete a set amount of work. Sprints are at the very heart of scrum and agile methodologies, and getting sprints right will help your agile team ship better software with fewer headaches.  
 
-1. Numbered
-2. List
+“With Scrum, a product is built in a series of iterations called sprints that break down big, complex projects into bite-sized pieces," said Megan Cook, Group Product Manager for Jira Software at Atlassian.
 
-**Bold** and _Italic_ and `Code` text
+## The difference between Scrum and Agile?
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hadil911/The-Agile-Scrum/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Many people confuse Scrum and Agile as the same thing. They're not!
+* Scrum is a framework for getting work done
+* Agile is a set of values and principles
+* A framewok like Scrum is there to help you start thinking in a more Agile way and to help you practice building Agile principles.
