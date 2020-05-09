@@ -11,7 +11,7 @@ Scrum is a framework that helps teams work together. Much like a rugby team (whe
 While the Scrum I’m talking about is most frequently used by software development teams, its principles and lessons can be applied to all kinds of teamwork. This is one of the reasons Scrum is so popular. Often thought of as an agile project management framework, Scrum describes a set of meetings, tools, and roles that work in concert to help teams structure and manage their work.
 
 
-# What are sprints?
+# What are sprints? Im makng some changes to this
 
 A sprint is a short, time-boxed period when a scrum team works to complete a set amount of work. Sprints are at the very heart of scrum and agile methodologies, and getting sprints right will help your agile team ship better software with fewer headaches.  
 
