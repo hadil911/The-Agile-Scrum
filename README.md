@@ -1,6 +1,6 @@
 ## Welcome Hadi's first ever website. Its my first one so be kind.
 
-I give most of the content credit to[Atlassian](https://www.atlassian.com/agile/scrum) and Also James Belchamber.
+I give most of the content credit to[Atlassian](https://www.atlassian.com/agile/scrum) and Also James Belchamber. sooooooo cheeeers for that
 
 If you have come to learn about what Scrum is, why we use it and how it relates to Agile but is not the same thing... Then you've come to the right place.
 
