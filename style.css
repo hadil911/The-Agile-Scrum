@@ -6,4 +6,5 @@
 .box-1{
     background-attachment: rgb(216, 12, 19);
     color: floralwhite;
+    border:5px gold solid;
 }
