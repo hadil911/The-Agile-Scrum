@@ -20,5 +20,7 @@
     background-color: rgb(216, 12, 19);
     color: floralwhite;
     border:15px gold solid;
-
+}
+ul{
+    text-align: auto;
 }
