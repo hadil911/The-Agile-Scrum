@@ -1,9 +1,9 @@
 .container{
     width: 80%;
-    margin: auto;
+    margin: center;
 }
 
 .box-1{
-    background-attachment: rgb(34, 16, 16);
+    background-attachment: rgb(216, 0, 0);
     color: floralwhite;
 }
