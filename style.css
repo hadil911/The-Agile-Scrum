@@ -9,20 +9,20 @@
 }
 
 .box-1{
-    background-color: rgb(54, 52, 52);
-    color: floralwhite;
+    background-color: rgb(255, 253, 253);
+    color: rgb(5, 5, 5);
     border:80px rgb(22, 19, 0) solid;
     
 }
 .box-2{   
-     background-color: rgb(34, 34, 36);
+     background-color: rgb(72, 72, 77);
     color: rgb(197, 196, 193);
     border:80px rgb(58, 63, 59) solid;
     }
 
 .box-3{
-    background-color: rgb(77, 71, 71);
-    color: floralwhite;
+    background-color: rgb(245, 243, 243);
+    color: rgb(7, 7, 7);
     border:80px rgb(46, 46, 46) solid;
 }
 table {
