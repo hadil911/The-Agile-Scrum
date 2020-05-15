@@ -1,45 +1,22 @@
-.container{
-    width: 90%;
-    margin: auto;
-    text-align: center;
-    font-weight: lighter;
-    font-style: italic;
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: rgb(0, 0, 0);
+<style>
+.my-container {
+  border: 1px solid gray;
+}
+.my-row {
+  border: 3px solid black;
+  
+}
+.my-col {
+  border: 3px solid lightslategray;
+  height: 800px;
+}
+.container {
+text-align: center;
+}
+.header {
+  text-align: center;
 }
 
-.box-1{
-    background-color: rgb(255, 253, 253);
-    color: rgb(5, 5, 5);
-    border:80px rgb(22, 19, 0) solid;
-    
-}
-.box-2{   
-     background-color: rgb(72, 72, 77);
-    color: rgb(197, 196, 193);
-    border:80px rgb(58, 63, 59) solid;
-    }
 
-.box-3{
-    background-color: rgb(245, 243, 243);
-    color: rgb(7, 7, 7);
-    border:80px rgb(46, 46, 46) solid;
-}
-table {
-    width: 1000px;
-    
-}
-table, th, tr, td {
-    border: midnightblue 1px solid;
-    border-collapse: collapse;
-}
-tr, td {
-    padding: 30px;
 
-}
-tr:nth-child(even) {
-    background-color: orange;
-}
-tr:nth-child(odd) {
-    background-color: palevioletred;
-}
+</style>
